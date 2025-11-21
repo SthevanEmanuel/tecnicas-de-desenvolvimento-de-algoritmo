@@ -1,12 +1,17 @@
 # Técnicas de Desenvolvimento de Algoritmo
 
-Projeto final da disciplina **Técnicas de Desenvolvimento de Algoritmo**  
-**Professor:** Gilberto  
-**Aluno:** Sthevan Emanuel — RGM 41791371
+Projeto de Lista de Tarefas (JSON)
 
-## Como usar
+## Integrante
 
-1. Clone o repositório  
-2. Execute `main.py`:  
-   ```bash
-   python main.py
+-   **Sthevan Emanuel**
+    -   **RGM:** 41791371\
+    -   **GitHub:** SthevanEmanuel
+
+## Descrição
+
+Este projeto consiste em um sistema simples de gerenciamento de tarefas
+utilizando arquivos JSON.\
+Inclui: - Criação automática do arquivo `tarefas.json` se não existir\
+- Funções de adicionar, listar e remover tarefas\
+- Docstrings em todas as funções
